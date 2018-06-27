@@ -4,6 +4,7 @@ function commands() {
   process.stdout.write(
     '\n-----------------------------\n' +
     'Commands:\n' +
+    '- commands [show commands list]\n' +
     '- ver [show node version]\n' +
     '- lang [show system language]\n' +
     '- /exit [exit programm]\n' +
